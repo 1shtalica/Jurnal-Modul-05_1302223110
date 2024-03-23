@@ -10,6 +10,15 @@ namespace Jurnal_Modul_05_1302223110
     {
         static void Main(string[] args)
         {
+            //nim : 1302223110
+            long a = 13;
+
+            long b = 02;
+
+            long c = 22;
+
+            Penjumlahan jumlah = new Penjumlahan();
+            jumlah.JumlahTigaAngka(a, b, c);
         }
     }
 }
